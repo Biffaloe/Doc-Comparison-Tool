@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Document Compare Tool", "Document Compare Tool\Document Compare Tool.csproj", "{DB3CF2E9-C4E8-41BC-AEF3-FD7BAA94D191}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB3CF2E9-C4E8-41BC-AEF3-FD7BAA94D191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB3CF2E9-C4E8-41BC-AEF3-FD7BAA94D191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB3CF2E9-C4E8-41BC-AEF3-FD7BAA94D191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB3CF2E9-C4E8-41BC-AEF3-FD7BAA94D191}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09EB2D99-127A-4DB8-BC6A-A60C9F870F08}
+	EndGlobalSection
+EndGlobal
